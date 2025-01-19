@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GreeterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-31T04:06:23" hostname="pream-ThinkPad-X1-Carbon-3rd" time="0.076">
+  <properties/>
+  <testcase name="testThatGreeterReturnsTheCorrectGreeting()" classname="GreeterTest" time="0.076"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
