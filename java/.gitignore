@@ -4,3 +4,9 @@
 .settings/
 bin/
 build/
+build.gradle
+gradlew
+gradlew.bat
+HELP.md
+HINTS.md
+README.md
